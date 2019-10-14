@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Verminaard.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Verminaard.github.io/static/js/main.462fd7ec.chunk.js",
+    "main.js.map": "/Verminaard.github.io/static/js/main.462fd7ec.chunk.js.map",
+    "runtime-main.js": "/Verminaard.github.io/static/js/runtime-main.1a67fd99.js",
+    "runtime-main.js.map": "/Verminaard.github.io/static/js/runtime-main.1a67fd99.js.map",
+    "static/js/2.2b5db354.chunk.js": "/Verminaard.github.io/static/js/2.2b5db354.chunk.js",
+    "static/js/2.2b5db354.chunk.js.map": "/Verminaard.github.io/static/js/2.2b5db354.chunk.js.map",
+    "index.html": "/Verminaard.github.io/index.html",
+    "precache-manifest.0c243c2f8aff1bfea12b1108972c10a3.js": "/Verminaard.github.io/precache-manifest.0c243c2f8aff1bfea12b1108972c10a3.js",
+    "service-worker.js": "/Verminaard.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Verminaard.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Verminaard.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a67fd99.js",
+    "static/js/2.2b5db354.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.462fd7ec.chunk.js"
+  ]
+}
